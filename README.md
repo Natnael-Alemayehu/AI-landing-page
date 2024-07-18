@@ -1,8 +1,96 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Generative AI Company Front-End
 
-Currently, two official plugins are available:
+Welcome to the Brainwave mockup project! This project is a front-end only portfolio website designed to showcase a fictional generative AI company called Brainwave. If you like this project, please consider giving it a star!
 
--   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
--   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
+## Screenshots
+
+Include screenshots of the website in the `screenshots` directory of this repository.
+
+1. Homepage
+   ![Homepage](screenshots/homepage.png)
+2. About Us
+   ![About Us](screenshots/aboutus.png)
+3. Services
+   ![Services](screenshots/services.png)
+4. Contact Us
+   ![Contact Us](screenshots/contactus.png)
+
+## Features
+
+- Responsive design
+- Interactive UI elements
+- Modern and clean design
+- Multi-page layout
+
+## Technologies Used
+
+- Tailwind
+- React
+- Scroll Parallax for animation
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Natnael-Alemayehu/AI-landing-page.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd AI-landing-page
+   ```
+3. Install packages   
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+In the terminal `npm run dev` for development and  `npm run build` to get the `dist` folder 
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+1. Fork the repository
+2. Create a new branch
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Make your changes
+4. Commit your changes
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+5. Push to the branch
+   ```bash
+   git push origin feature-branch
+   ```
+6. Open a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+
+## Contact
+
+If you have any questions, feel free to reach out:
+
+- Name: Natnael Alemayehu
+- Email: [se.natnael.alemayehu@gmail.com](mailto:se.natnael.alemayehu@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/natnaelalemayehu/)
+
+---
