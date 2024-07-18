@@ -6,6 +6,7 @@ Welcome to the Brainwave mockup project! This project is a front-end website des
 
 ## Table of Contents
 
+- [Demo](#Demo)
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -15,6 +16,9 @@ Welcome to the Brainwave mockup project! This project is a front-end website des
 - [License](#license)
 - [Contact](#contact)
 
+## Demo
+
+Check out the live demo of the project [here](https://ai-comp-landing-page.vercel.app).
 
 ## Screenshots
 
