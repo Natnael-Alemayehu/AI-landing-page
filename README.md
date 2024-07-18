@@ -1,6 +1,6 @@
 ---
 
-# Generative AI Company Front-End
+# AI Company Landing Page
 
 Welcome to the Brainwave mockup project! This project is a front-end only portfolio website designed to showcase a fictional generative AI company called Brainwave. If you like this project, please consider giving it a star!
 
