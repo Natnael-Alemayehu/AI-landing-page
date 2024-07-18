@@ -20,14 +20,7 @@ Welcome to the Brainwave mockup project! This project is a front-end only portfo
 
 Include screenshots of the website in the `screenshots` directory of this repository.
 
-1. Homepage
-   ![Homepage](screenshots/homepage.png)
-2. About Us
-   ![About Us](screenshots/aboutus.png)
-3. Services
-   ![Services](screenshots/services.png)
-4. Contact Us
-   ![Contact Us](screenshots/contactus.png)
+[](https://github.com/AI/Your_GIF_Name.gif)
 
 ## Features
 
